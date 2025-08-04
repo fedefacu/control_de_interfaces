@@ -112,6 +112,19 @@ int main(void) {
 5. Compilar y flashear el programa.
 6. Seguir las [instrucciones](#subir-a-github) para subir esta actividad a GitHub o subirlo a través de la extensión de VS Code.
 
+## Actividad 3
+
+La idea es comenzar a trabajar con displays 7 segmentos y manejar técnicas para controlar múltiples dígitos.
+
+### Consigna
+
+1. En primera instancia, vamos a tomar este [ejemplo](https://wokwi.com/projects/436587948664005633) de simulación en Wokwi.
+2. En la simulación, lograr definir los segmentos que se deben encender para formar cada número.
+3. Lograr escribir el mismo número en los cuatro dígitos.
+4. Hacer un contador de 0000 a 9999.
+5. Revisar el directorio de [actividad_3](actividad_3/) y probar el demo de este [repositorio](https://github.com/wahlencraft/TM1637-pico/blob/master/examples/demo.c).
+6. Hacer un programa que escriba el nombre y apellido en los segmentos con un texto que se desplace.
+
 ## Subir a GitHub
 
 Una vez que tengamos terminada la actividad, con la consola ubicada en este directorio haremos lo siguiente:
